@@ -1,0 +1,18 @@
+# المستودع مخصص لملفات الشهادات المُصدَّرة فقط.
+# ملفات التطبيق محلية ولا تُرفع.
+certificate.html
+data.js
+certs-data.js
+signcore.js
+qr-lib.js
+qr.js
+issuer.html
+preview.png
+README-*.md
+.gitmsg.txt
+# لا ترفع صفحة التحقق أو ملفات النشر — نرفع صورة الشهادة فقط
+verify.html
+certs.json
+.github/
+# الشهادة القديمة باسم عربي (استُبدلت بـ IQ-2026-00001.png)
+IQ-2026-00001-*.png
